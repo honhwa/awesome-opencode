@@ -260,6 +260,15 @@
 </details>
 
 <details>
+  <summary><b>Omniroute Auth</b> <img src="https://badgen.net/github/stars/Alph4d0g/opencode-omniroute-auth" height="14"/> - <i>Omniroute authentication provider</i></summary>
+  <blockquote>
+    Connect and automatically fetch models from your Omniroute instance
+    <br><br>
+    <a href="https://github.com/Alph4d0g/opencode-omniroute-auth">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>open-plan-annotator</b> <img src="https://badgen.net/github/stars/ndom91/open-plan-annotator" height="14"/> - <i>Annotate LLM plans like a Google Doc!</i></summary>
   <blockquote>
     A fully local agentic coding plugin that intercepts plan mode and opens an annotation UI in your browser. Select text to strikethrough, replace, insert, or comment — then approve the plan or request changes
