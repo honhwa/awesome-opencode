@@ -386,6 +386,15 @@
 </details>
 
 <details>
+  <summary><b>opencode-snip</b> <img src="https://badgen.net/github/stars/VincentHardouin/opencode-snip" height="14"/> - <i>OpenCode plugin that prefixes shell commands with snip to reduce LLM token consumption by 60-90%</i></summary>
+  <blockquote>
+    Automatically prefixes supported shell commands (git, go, cargo, npm, docker, etc.) with snip to filter output before it reaches your LLM context window.
+    <br><br>
+    <a href="https://github.com/VincentHardouin/opencode-snip">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>OpenHax Codex</b> <img src="https://badgen.net/github/stars/open-hax/codex" height="14"/> - <i>OAuth authentication</i></summary>
   <blockquote>
     OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions.
